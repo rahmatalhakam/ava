@@ -1,2 +1,2 @@
-# ava
+# AVA
 Automatic Voice Annotation Desktop App
